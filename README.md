@@ -1,7 +1,6 @@
-<h3 align="center">minifetch</h3>
-
 <div align="center">
   
+# minifetch
 ![Example Output](https://i.ibb.co/JRk2WhPB/arch.png)
 
 </div>

@@ -17,7 +17,7 @@
 
 ## About
 
-A pfetch-like Python script that displays system information with customizable ASCII art.
+A lightweight, pfetch-like system information tool written in Python. Displays essential system stats alongside customizable ASCII art.
 
 ## Installation
 

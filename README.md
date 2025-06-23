@@ -5,7 +5,7 @@
 
 </div>
 
-<p align="center">A pfetch-like Python script that displays system information with customizable ASCII art.
+<p align="center">A mini pfetch-like Python script that displays system information with customizable ASCII art.
    
 </p>
 

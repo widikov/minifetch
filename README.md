@@ -23,7 +23,7 @@ A pfetch-like Python script that displays system information with customizable A
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/widikov/minifetch
+   git clone https://github.com/widikov/minifetch.git
 1. Ensure you have Python 3.10+ installed
 2. Install dependencies:
    ```bash

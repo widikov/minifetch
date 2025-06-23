@@ -32,4 +32,4 @@ A lightweight, pfetch-like system information tool written in Python. Displays e
 
 ## License
 
-[MIT](https://github.com/widikov/minifetch/blob/main/LICENSE)
+This project is open-source and available under the [MIT License](https://github.com/widikov/minifetch/blob/main/LICENSE)

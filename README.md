@@ -1,7 +1,13 @@
 <h3 align="center">minifetch</h3>
+
+<div align="center">
+  
 ![Example Output](https://i.ibb.co/JRk2WhPB/arch.png)
 
+</div>
+
 <p align="center">A pfetch-like Python script that displays system information with customizable ASCII art.
+   
 </p>
 
 <div align="center">

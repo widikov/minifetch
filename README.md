@@ -1,7 +1,7 @@
 <div align="center">
   
 # minifetch
-![Example Output](https://i.ibb.co/Hkzzt3J/2025-06-24-02-14-round-corners.png)
+![Example Output](https://i.ibb.co/239QFh8q/2025-06-24-09-28-round-corners.png)
 
 </div>
 

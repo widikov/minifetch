@@ -1,11 +1,9 @@
 WHITE
 WHITE
-{white}     @@@@@
-{white}  @@@      @      
-{white} @   @@@ @   @       
-{white}@  @          @     
-{white}@  @     @   @@     
-{white}@  @   @    @ @     
-{white} @ @@@   @@  @      
-{white}  @         @       
-{white}     @@@@@          
+{white}  _______
+{white} / ____  \
+{white}/  |  /  /\
+{white}|__\ /  / |
+{white}\   /__/  /
+{white} \_______/
+

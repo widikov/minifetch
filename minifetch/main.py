@@ -9,6 +9,8 @@ import ctypes
 import psutil
 import re
 from colorama import Fore, init
+import argparse
+import distro
 
 init()
 
@@ -192,7 +194,6 @@ class SystemInfoFetcher:
             system = platform.system()
             if system == 'Linux':
                 try:
-                    import distro
                     distro_name = distro.id()
                     return f"{distro.name()} {distro.version()}", distro_name
                 except:
@@ -341,6 +342,23 @@ class SystemInfoDisplay:
 
 
 def main():
+    parser = argparse.ArgumentParser(description='System information tool')
+    parser.add_argument('--dir', action='store_true', help='Open script directory')
+    args = parser.parse_args()
+
+    if args.dir:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        try:
+            if platform.system() == 'Windows':
+                os.startfile(script_dir)
+            elif platform.system() == 'Darwin':
+                subprocess.run(['open', script_dir])
+            else:
+                subprocess.run(['xdg-open', script_dir])
+        except Exception as e:
+            print(f"Failed to open directory: {e}")
+        return
+
     system_display = SystemInfoDisplay()
     print(system_display.generate_display())
 

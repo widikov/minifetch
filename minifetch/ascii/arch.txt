@@ -1,10 +1,9 @@
 BLUE
-BLUE  
-{blue}       **         
-{blue}      ****        
-{blue}     ******       
-{blue}    ********      
-{blue}   **********     
-{blue}  ****    ****    
-{blue} *****    *****   
-{blue}**            **  
+BLUE
+{blue}      /\
+{blue}     /  \
+{blue}    /\   \
+{blue}   /      \
+{blue}  /   ,,  /\
+{blue} /   |  |   \
+{blue}/_-''    ''-_\

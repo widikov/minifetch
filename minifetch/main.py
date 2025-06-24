@@ -4,6 +4,7 @@ import os
 import platform
 import subprocess
 import sys
+import time
 import ctypes
 import psutil
 import re
@@ -102,9 +103,17 @@ class SystemInfoFetcher:
     def get_uptime() -> str:
         try:
             system = platform.system().lower()
-            if system == 'linux' or system == 'darwin':
+            if system == 'linux':
                 with open('/proc/uptime', 'r') as f:
                     uptime_seconds = float(f.readline().split()[0])
+                mins, sec = divmod(int(uptime_seconds), 60)
+                hour, mins = divmod(mins, 60)
+                days, hour = divmod(hour, 24)
+            elif system == 'darwin':
+                import subprocess
+                boottime = subprocess.check_output(['sysctl', '-n', 'kern.boottime'])
+                boottime = boottime.decode().strip().split(' ')[3].strip(',')
+                uptime_seconds = time.time() - float(boottime)
                 mins, sec = divmod(int(uptime_seconds), 60)
                 hour, mins = divmod(mins, 60)
                 days, hour = divmod(hour, 24)
@@ -207,13 +216,16 @@ class SystemInfoFetcher:
         try:
             system = platform.system()
             if system == 'Linux':
-                return platform.release()
+                return f"Linux {platform.release()}"
             elif system == 'Darwin':
-                return subprocess.getoutput("uname -r").strip()
+                kernel_version = subprocess.getoutput("uname -r").strip()
+                return f"Darwin {kernel_version}"
+            elif system == 'Windows':
+                return f"WIN32_NT {platform.version()}"
             else:
-                return platform.version()
+                return f"{system} {platform.version()}"
         except Exception:
-            return "Unknown"
+            return "Unknown kernel/OS version"
 
 
 class ASCIIArtLoader:    

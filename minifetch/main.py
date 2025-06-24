@@ -70,7 +70,7 @@ class ColorManager:
             colored_line = colored_line.replace(tag, color)
         return colored_line + Config.RESET
 
-# freebsd support soon i hope
+# freebsd & openwrt support soon i guess
 class SystemInfoFetcher:    
     @staticmethod
     def get_username() -> str:

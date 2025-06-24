@@ -24,7 +24,7 @@ A lightweight, pfetch-like system information tool written in Python. Displays e
 1. Ensure you have Python 3.10+ installed
 2. Install script:
    ```bash
-   pip install minifetch
+   pip install minifetch-tool
 3. Enter `minifetch` in terminal
 
 ## License

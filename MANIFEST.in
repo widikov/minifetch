@@ -1,2 +1,2 @@
-include src/ascii/*
-include src/custom.txt
+include minifetch/ascii/*
+include minifetch/custom.txt

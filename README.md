@@ -19,6 +19,28 @@
 
 A lightweight, pfetch-like system information tool written in Python. Displays essential system stats alongside customizable ASCII art.
 
+## Supported Operating Systems
+
+Minifetch works on the following operating systems:
+
+- **Linux distributions:**
+  - Arch Linux
+  - Debian
+  - Elementary OS
+  - EndeavourOS
+  - Fedora
+  - Gentoo
+  - Manjaro
+  - Linux Mint
+  - Nobara
+  - Pop!_OS
+  - Ubuntu
+  - Zorin OS
+
+- **Other systems:**
+  - macOS
+  - Windows
+
 ## Installation
 
 1. Ensure you have Python 3.10+ installed

@@ -38,7 +38,6 @@ minifetch works on the following operating systems:
   - Pop!_OS
   - Ubuntu
   - Zorin OS
-  - ... you can create your own ascii logo for any distribution
 
 - **Other systems:**
   - macOS

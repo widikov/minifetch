@@ -1,0 +1,10 @@
+YELLOW
+GREEN
+{green}         .:'
+{green}     __ :'__
+{yellow}  .'`__`-'__``.
+{orange} :__________.-'
+{red} :_________:
+{magenta}  :_________`-;
+{blue}   `.__.-.__.'
+

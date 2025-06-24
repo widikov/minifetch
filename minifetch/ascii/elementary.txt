@@ -1,0 +1,11 @@
+WHITE
+WHITE
+{white}     @@@@@
+{white}  @@@      @      
+{white} @   @@@ @   @       
+{white}@  @          @     
+{white}@  @     @   @@     
+{white}@  @   @    @ @     
+{white} @ @@@   @@  @      
+{white}  @         @       
+{white}     @@@@@          

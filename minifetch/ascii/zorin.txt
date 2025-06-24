@@ -1,0 +1,10 @@
+BLUE
+BLUE
+{blue}    +++++++++        
+{white}  #############  
+{blue} +++++++++{white}#####{blue}+     
+{blue}+++++++{white}#####{blue}+++++    
+{blue} ++{white}#####{blue}++++++++     
+{white}  #############
+{blue}   +++++++++++       
+

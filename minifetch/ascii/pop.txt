@@ -1,0 +1,11 @@
+CYAN
+CYAN
+{cyan}      ========      
+{cyan}   ============   
+{cyan}  =={white}###={white}###{cyan}=={white}###{cyan}==  
+{cyan} ==={white}###{cyan}=={white}###{cyan}={white}##{cyan}====
+{cyan}====={white}######{cyan}=={white}##{cyan}=====
+{cyan}======{white}##{cyan}============
+{cyan}  ====={white}##{cyan}===={white}##{cyan}===
+{cyan}   ==={white}#########{cyan}===   
+{cyan}      ========      

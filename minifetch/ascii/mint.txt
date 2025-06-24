@@ -1,0 +1,11 @@
+GREEN
+GREEN
+{green}    ========      
+{green}  ============    
+{green}==={white}#{green}=={white}#######{green}===  
+{green}==={white}#{green}=={white}#{green}=={white}#{green}=={white}#{green}===  
+{green}==={white}#{green}=={white}#{green}=={white}#{green}=={white}#{green}===  
+{green}==={white}#{green}=={white}#{green}=={white}#{green}=={white}#{green}===  
+{green}==={white}##########{green}===  
+{green}  ============    
+{green}    ========    

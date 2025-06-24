@@ -1,0 +1,10 @@
+MAGENTA
+BLUE
+{magenta}        ={blue}**       
+{magenta}       *****{blue}+     
+{red}     ={magenta}********{blue}+   
+{red}   =={magenta}**********{blue}=  
+{red} +=={magenta}***********{blue}++ 
+{red}=={magenta}*************{blue}++ 
+{blue} ++++++++++=++++  
+

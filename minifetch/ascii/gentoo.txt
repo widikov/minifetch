@@ -1,0 +1,12 @@
+MAGENTA
+MAGENTA
+{magenta}    @@@@@           
+{magenta}  @{white}@@@@@@@@@      
+{magenta} @{white}@@@@ @@ @@@@    
+{magenta}@{white} @@@@@   @@@@@@  
+{magenta}  @{white}@  @@@@@@@@@@ @
+{magenta}    @{white}@@@@@@@@@  @ 
+{magenta}  @{white}@@@@@@@@@ @@   
+{magenta} @{white}@@@@@@@  @@     
+{magenta}  @    @@@          
+{magenta} @@@@@@             

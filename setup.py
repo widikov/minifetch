@@ -1,8 +1,12 @@
 from setuptools import setup, find_packages
+from pathlib import Path
+
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="minifetch-tool",
-    version="1.0.0.post1",
+    version="1.0.1",
     packages=find_packages(),
     include_package_data=True,
     package_data={
@@ -21,6 +25,8 @@ setup(
     author="wdkq",
     author_email="koc2b93o0@mozmail.com",
     description="A mini system information fetch tool.",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
     license="MIT",
     keywords="system info fetch",
     url="https://github.com/widikov/minifetch",

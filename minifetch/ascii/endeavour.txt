@@ -7,5 +7,5 @@ BLUE
 {red} +=={magenta}***********{blue}++ 
 {red}=={magenta}*************{blue}++ 
 {blue} ++++++++++=++++  
-
-
+ 
+ 

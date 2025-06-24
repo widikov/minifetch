@@ -1,1 +1,10 @@
-
+BLUE
+BLUE  
+{blue}       **         
+{blue}      ****        
+{blue}     ******       
+{blue}    ********      
+{blue}   **********     
+{blue}  ****    ****    
+{blue} *****    *****   
+{blue}**            **  

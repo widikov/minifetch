@@ -30,7 +30,7 @@ minifetch works on the following operating systems:
   - Debian
   - elementary OS
   - EndeavourOS
-  - Fedora
+  - Fedora Linux
   - Gentoo Linux
   - Manjaro
   - Linux Mint

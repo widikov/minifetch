@@ -21,14 +21,11 @@ A lightweight, pfetch-like system information tool written in Python. Displays e
 
 ## Installation
 
-1. Clone repository:
-   ```bash
-   git clone https://github.com/widikov/minifetch.git
 1. Ensure you have Python 3.10+ installed
-2. Install dependencies:
+2. Install script:
    ```bash
-   pip install -r requirements.txt
-3. Run setup.py
+   pip install minifetch
+3. Enter `minifetch` in terminal
 
 ## License
 

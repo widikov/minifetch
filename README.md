@@ -21,7 +21,7 @@ A lightweight, pfetch-like system information tool written in Python. Displays e
 
 ## Supported Operating Systems
 
-Minifetch works on the following operating systems:
+minifetch works on the following operating systems:
 
 - **Linux distributions:**
   - Arch Linux

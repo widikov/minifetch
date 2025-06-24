@@ -28,13 +28,13 @@ minifetch works on the following operating systems:
 - **Linux distributions:**
   - Arch Linux
   - Debian
-  - Elementary OS
+  - elementary OS
   - EndeavourOS
   - Fedora
-  - Gentoo
+  - Gentoo Linux
   - Manjaro
   - Linux Mint
-  - Nobara
+  - Nobara Linux
   - Pop!_OS
   - Ubuntu
   - Zorin OS

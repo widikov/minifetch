@@ -5,7 +5,7 @@
 
 </div>
 
-<p align="center">A mini pfetch-like Python script that displays system information with customizable ASCII art.
+<p align="center">A mini fetch Python script that displays system information with customizable ASCII art.
    
 </p>
 
@@ -19,7 +19,7 @@
 
 ## About
 
-A lightweight, pfetch-like system information tool written in Python. Displays essential system stats alongside customizable ASCII art.
+A lightweight, system information fetch tool written in Python. Displays essential system stats alongside customizable ASCII art.
 
 ## Supported Operating Systems
 

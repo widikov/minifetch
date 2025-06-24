@@ -1,12 +1,9 @@
 MAGENTA
 MAGENTA
-{magenta}    @@@@@           
-{magenta}  @{white}@@@@@@@@@      
-{magenta} @{white}@@@@ @@ @@@@    
-{magenta}@{white} @@@@@   @@@@@@  
-{magenta}  @{white}@  @@@@@@@@@@ @
-{magenta}    @{white}@@@@@@@@@  @ 
-{magenta}  @{white}@@@@@@@@@ @@   
-{magenta} @{white}@@@@@@@  @@     
-{magenta}  @    @@@          
-{magenta} @@@@@@             
+{magenta} _-----_
+{magenta}(       \
+{magenta}\    0   \
+{white} \        )
+{white} /      _/
+{white}(     _-
+{white}\____-

@@ -23,7 +23,6 @@ setup(
         ],
     },
     author="wdkq",
-    author_email="koc2b93o0@mozmail.com",
     description="A mini system information fetch tool.",
     long_description=long_description,
     long_description_content_type="text/markdown",

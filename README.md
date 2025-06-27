@@ -48,7 +48,7 @@ minifetch works on the following operating systems:
 1. Ensure you have Python 3.10+ installed
 2. Install script:
    ```bash
-   pip install minifetch-tool
+   pip install git+https://github.com/widikov/minifetch.git
 3. Enter `minifetch` in terminal
 
 ## License

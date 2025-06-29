@@ -1,0 +1,8 @@
+CYAN
+CYAN            
+{cyan}  +++++++
+{cyan} =+++++    _
+{cyan}+++       =
+{cyan}=++        ++
+{cyan} +++=======
+{cyan}  ++++++=
